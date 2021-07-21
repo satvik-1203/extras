@@ -2,4 +2,4 @@
 
  <p>Its build up on fino.zsh-theme</p>
 
- <img src="./terminalTheme.png" width="200" height="200"/>
+ <img src="./terminalTheme.png" width="500" height="200"/>
