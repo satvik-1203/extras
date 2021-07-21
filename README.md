@@ -1,3 +1,3 @@
 # extras
 
-## Just random cool stuff what i want to share.
+## Just random cool stuff of i want to share.
