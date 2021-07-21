@@ -1,4 +1,4 @@
-# fino.zsh-theme
+
 
 # Use with a dark background and 256-color terminal!
 # Meant for people with rbenv and git. Tested only on OS X 10.7.
@@ -8,7 +8,7 @@
 # Borrowing shamelessly from these oh-my-zsh themes:
 #   bira
 #   robbyrussell
-#
+#  msotly from fino.zsh-theme
 # Also borrowing from http://stevelosh.com/blog/2010/02/my-extravagant-zsh-prompt/
 
 function virtualenv_prompt_info {
